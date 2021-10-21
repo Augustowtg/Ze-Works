@@ -1,8 +1,11 @@
-
 .mainSection {
     color: #9C27B0;
 }
 
 .mainSection h1 {
     color: black;
+}
+
+#soluction {
+    border: 1px solid #9C27B0;
 }
